@@ -1,0 +1,10 @@
+ Guitar's price: 25000 Guitar's quantity: 5
+ Wire's price: 10000 Wire's quantity: 4 Wire's length (m): 20
+ Wire's price: 10000 Wire's quantity: 4 Wire's length (m): 40
+ Compare wire and wire2 false
+ Microphone's price: 20000 Microphone's quantity: 1 Is it wireless? true
+ Guitars cost more than drums
+[ Guitar's price: 19000 Guitar's quantity: 2,  Microphone's price: 8000 Microphone's quantity: 1 Is it wireless? false,  Wire's price: 1000 Wire's quantity: 1 Wire's length (m): 200,  Guitar's price: 50000 Guitar's quantity: 1,  Microphone's price: 10000 Microphone's quantity: 2 Is it wireless? true]
+[ Wire's price: 1000 Wire's quantity: 1 Wire's length (m): 200,  Microphone's price: 8000 Microphone's quantity: 1 Is it wireless? false,  Microphone's price: 10000 Microphone's quantity: 2 Is it wireless? true,  Guitar's price: 19000 Guitar's quantity: 2,  Guitar's price: 50000 Guitar's quantity: 1]
+
+Process finished with exit code 0
