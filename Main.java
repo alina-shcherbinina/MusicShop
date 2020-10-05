@@ -120,11 +120,11 @@ public class Main {
         System.out.println(mic.toString());
 
         if (mic.getOverallPrice() > guitar.getOverallPrice())
-            System.out.println(" Drums cost more than guitar");
+            System.out.println(" mic cost more than guitar");
         else if (mic.getOverallPrice() < guitar.getOverallPrice())
             System.out.println(" Guitars cost more than drums");
         else
-            System.out.println(" Drums and guitars have equal price");
+            System.out.println(" mic and guitars have equal price");
 
         ArrayList<MusicShop> storage =  new ArrayList<>();
         storage.add(new Guitar(19000, 2));
